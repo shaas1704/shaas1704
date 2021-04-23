@@ -4,7 +4,7 @@
 ## A Computer Science and Engineering Student in India
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/shaswat-srivastava-03a67118b/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/shaswat-srivastava-03a67118b/"><img height="30" src="https://github.com/shaas1704/shaas1704/blob/main/linkedin.png"></a>
 <a href="https://instagram.com/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
