@@ -1,7 +1,17 @@
-### Hi there 👋
+# Hi there, I'm Shaswat Srivastava 👋
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-<!--
-**shaas1704/shaas1704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Computer Science and Engineering Student in India
+
+<p align='center'>
+<a href="https://www.linkedin.com/in/shaswat-srivastava-03a67118b/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://instagram.com/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
+
+### I am a student at SRM Institute of Science and Technology (Chennai) as a CSE Big Data Analytics student. I am currently building my skills to become a Data Scientist! Here are few of my projects, feel free to explore and modify them! 😄
+
+
 
 Here are some ideas to get you started:
 
