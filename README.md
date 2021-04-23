@@ -1,7 +1,7 @@
 # I'm Shaswat Srivastava 👋
 <img align="right" alt="GIF" height="160px" src="https://github.com/shaas1704/shaas1704/blob/main/giphy.gif" />
 
-## I'm a Computer Science and Engineering Student in India
+## A Computer Science and Engineering Student in India
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/shaswat-srivastava-03a67118b/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
