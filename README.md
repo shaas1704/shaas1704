@@ -1,5 +1,5 @@
 # I'm Shaswat Srivastava 👋
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://github.com/shaas1704/shaas1704/blob/main/giphy.gif" />
 
 ## I'm a Computer Science and Engineering Student in India
 
