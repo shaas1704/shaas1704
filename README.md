@@ -1,12 +1,12 @@
 # I'm Shaswat Srivastava 👋
-<img align="right" alt="GIF" height="160px" src="https://github.com/shaas1704/shaas1704/blob/main/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://github.com/shaas1704/shaas1704/blob/main/Gifs%20and%20Icons/giphy.gif" />
 
 ## A Computer Science and Engineering Student in India
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/shaswat-srivastava-03a67118b/"><img height="30" src="https://github.com/shaas1704/shaas1704/blob/main/linkedin.png"></a>
-<a href="https://instagram.com/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+  Contact me at: <br>
+<a href="https://www.linkedin.com/in/shaswat-srivastava-03a67118b/"><img height="50" src="https://github.com/shaas1704/shaas1704/blob/main/Gifs%20and%20Icons/linkedin2.jpg"></a>
+<a href="shaswatsrivastava1704@gmail.com"><img height="50" src="https://github.com/shaas1704/shaas1704/blob/main/Gifs%20and%20Icons/gmail2.png"></a>
 </p>
 
 ### I am a student at SRM Institute of Science and Technology (Chennai) as a CSE Big Data Analytics student. I am currently building my skills to become a Data Scientist! Here are few of my projects, feel free to explore and modify them.
