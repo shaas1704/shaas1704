@@ -9,6 +9,7 @@ Contact me at: <br>
 <a href="mailto:shaswatsrivastava1704@gmail.com"><img height="50" src="https://github.com/shaas1704/shaas1704/blob/main/Gifs%20and%20Icons/gmail2.png"></a>
 </p>
 
+
 ### I am a student at SRM Institute of Science and Technology (Chennai) majoring in CSE with specialization in Big Data Analytics. I am currently building my skills to become a Data Scientist! Here are few of my projects, feel free to explore and modify them.
 
 
@@ -24,3 +25,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align='center'>
+My CV: 
