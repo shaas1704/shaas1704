@@ -4,10 +4,9 @@
 ## A Computer Science and Engineering Student in India
 
 <p align='center'>
-  Contact me at: <br>
+Contact me at: <br>
 <a href="https://www.linkedin.com/in/shaswat-srivastava-03a67118b/"><img height="50" src="https://github.com/shaas1704/shaas1704/blob/main/Gifs%20and%20Icons/linkedin2.jpg"></a>
-<img height="50" src="https://github.com/shaas1704/shaas1704/blob/main/Gifs%20and%20Icons/gmail2.png"></a> 
-shaswatsrivastava1704@gmail.com <small>
+<img height="50" src="https://github.com/shaas1704/shaas1704/blob/main/Gifs%20and%20Icons/gmail2.png"></a>
 </p>
 
 ### I am a student at SRM Institute of Science and Technology (Chennai) as a CSE Big Data Analytics student. I am currently building my skills to become a Data Scientist! Here are few of my projects, feel free to explore and modify them.
