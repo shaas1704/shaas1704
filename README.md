@@ -9,7 +9,7 @@ Contact me at: <br>
 <img height="50" src="https://github.com/shaas1704/shaas1704/blob/main/Gifs%20and%20Icons/gmail2.png"></a>
 </p>
 
-### I am a student at SRM Institute of Science and Technology (Chennai) as a CSE Big Data Analytics student. I am currently building my skills to become a Data Scientist! Here are few of my projects, feel free to explore and modify them.
+### I am a student at SRM Institute of Science and Technology (Chennai) majoring in CSE Big Data Analytics. I am currently building my skills to become a Data Scientist! Here are few of my projects, feel free to explore and modify them.
 
 
 
