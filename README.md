@@ -13,8 +13,8 @@ Contact me at: <br>
 ### I am a student at SRM Institute of Science and Technology (Chennai) majoring in CSE with specialization in Big Data Analytics. I am currently building my skills to become a Data Scientist! Here are few of my projects, feel free to explore and modify them.
 
 
-
-Here are some ideas to get you started:
+  ---
+About Me:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
