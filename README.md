@@ -36,19 +36,24 @@ About Me:
 
  ---
  ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+<code><img height="30" src="https://github.com/shaas1704/shaas1704/blob/main/Gifs%20and%20Icons/git.svg"></code>
+  <code> <img height="30" src="https://github.com/shaas1704/shaas1704/blob/main/Gifs%20and%20Icons/python.svg"> </code>
+  <code> <img height="30" src="https://github.com/shaas1704/shaas1704/blob/main/Gifs%20and%20Icons/java.svg"> </code>
+  <code> <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg"> </code>
+  <code> <img height="30" src="https://github.com/shaas1704/shaas1704/blob/main/Gifs%20and%20Icons/jupyter.svg"> </code>
+  <!-- <code> <img height="30" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code> -->
+  <!-- <code> <img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code> -->
+  <code> <img height="30" src="https://github.com/shaas1704/shaas1704/blob/main/Gifs%20and%20Icons/sqlite.svg"> </code>
+  <!-- <code> <img height="30" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code> -->
+  <code> <img height="30" src="https://github.com/shaas1704/shaas1704/blob/main/Gifs%20and%20Icons/matplotlib.png" width='75'> </code>
+  <code> <img height="30" src="https://github.com/shaas1704/shaas1704/blob/main/Gifs%20and%20Icons/pandas.png" width='75'> </code>
+  <code> <img height="30" src="https://github.com/shaas1704/shaas1704/blob/main/Gifs%20and%20Icons/heroku.svg"> </code>
+  <code> <img height="30" src="https://github.com/shaas1704/shaas1704/blob/main/Gifs%20and%20Icons/numpy.svg"> </code>
+  <code> <img height="30" src="https://github.com/shaas1704/shaas1704/blob/main/Gifs%20and%20Icons/seaborn.svg"> </code>
+  <code> <img height="30" src="https://github.com/shaas1704/shaas1704/blob/main/Gifs%20and%20Icons/streamlit.svg"> </code>
+ <!-- <code> <img height="30" src="https://github.com/shaas1704/shaas1704/blob/main/Gifs%20and%20Icons/Scikit_learn.png"> </code> -->
+  <code> <img height="30" src="https://github.com/shaas1704/shaas1704/blob/main/Gifs%20and%20Icons/html5.svg"> </code>
+  <code> <img height="30" src="https://github.com/shaas1704/shaas1704/blob/main/Gifs%20and%20Icons/css.svg"> </code>
 
 
 <p align='left'>
