@@ -14,19 +14,7 @@ Contact me at: <br>
 
 
   ---
-About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
- ---
  <a href="https://github.com/shaas1704/shaas1704">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaas1704&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -50,7 +38,6 @@ About Me:
   <code> <img height="30" src="https://github.com/shaas1704/shaas1704/blob/main/Gifs%20and%20Icons/streamlit.svg"> </code>
   <code> <img height="30" src="https://github.com/shaas1704/shaas1704/blob/main/Gifs%20and%20Icons/html5.svg"> </code>
   <code> <img height="30" src="https://github.com/shaas1704/shaas1704/blob/main/Gifs%20and%20Icons/css.svg"> </code>
+  <code> <img height="30" src="https://github.com/shaas1704/shaas1704/blob/main/Gifs%20and%20Icons/C%2B%2B.png"> </code>
+  <code> <img height="30" src="https://github.com/shaas1704/shaas1704/blob/main/Gifs%20and%20Icons/c%20language.png"> </code>
 
-
-<p align='left'>
-My CV:
