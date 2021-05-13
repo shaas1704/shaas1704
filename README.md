@@ -1,7 +1,7 @@
 # Hi! I'm Shaswat Srivastava
 <img align="right" alt="GIF" height="160px" src="https://github.com/shaas1704/shaas1704/blob/main/Gifs%20and%20Icons/giphy.gif" />
 
-## A Computer Science and Engineering Student in India
+## A Computer Science Engineering Student in India
 
 <p align='center'>
 Contact me at: <br>
