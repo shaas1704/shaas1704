@@ -21,6 +21,14 @@ Contact me at: <br>
 <a href="https://github.com/shaas1704/shaas1704">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shaas1704&count_private=true" alt="Shaswat's GitHub Stats" />
 </a> 
+<div align="center"><table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/shaas1704/count.svg" alt="vistor count" height="50" /></td>
+  </tr>
+</table></div>
+
+<div align="center">
 
  ---
  ## 🔧 Technologies & Tools
