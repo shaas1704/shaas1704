@@ -1,16 +1,16 @@
 # Hi! I'm Shaswat Srivastava
 <img align="right" alt="GIF" height="160px" src="https://github.com/shaas1704/shaas1704/blob/main/Gifs%20and%20Icons/giphy.gif" />
 
-## A Computer Science Engineering Student in India
+## A Computer Science Engineering Student in Los Angeles
 
 <p align='center'>
 Contact me at: <br>
-<a href="https://www.linkedin.com/in/shaswat-srivastava-03a67118b/"><img height="50" src="https://github.com/shaas1704/shaas1704/blob/main/Gifs%20and%20Icons/linkedin2.jpg"></a>
-<a href="mailto:shaswatsrivastava1704@gmail.com"><img height="50" src="https://github.com/shaas1704/shaas1704/blob/main/Gifs%20and%20Icons/gmail2.png"></a>
+<a href="https://www.linkedin.com/in/shaswatsrivastava/"><img height="50" src="https://github.com/shaas1704/shaas1704/blob/main/Gifs%20and%20Icons/linkedin2.jpg"></a>
+<a href="mailto:shaswat.srivastava.404@gmail.com"><img height="50" src="https://github.com/shaas1704/shaas1704/blob/main/Gifs%20and%20Icons/gmail2.png"></a>
 </p>
 
 
-### I am a student at SRM Institute of Science and Technology (Chennai) majoring in CSE with specialization in Big Data Analytics. I am currently building my skills to become a Data Scientist! Here are few of my projects, feel free to explore and modify them.
+### I am a graduate student at The University of Southern California majoring in Computer Science with a specialization in Artificial Intelligence. Here are few of my projects, feel free to explore and modify them.
 
 
   ---
