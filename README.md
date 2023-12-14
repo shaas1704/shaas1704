@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/shaas1704"><img width="80%" alt="Hey, I'm Shaswat. I do AI and ML!" src="https://github.com/shaas1704/shaas1704/blob/main/New/copy_shas%20header.png" /></a></p>
+<p align="center"><a href="https://github.com/shaas1704"><img height="60%" width="80%" alt="Hey, I'm Shaswat. I do AI and ML!" src="https://github.com/shaas1704/shaas1704/blob/main/New/shas%20header.png" /></a></p>
 
 <br />
 
