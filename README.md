@@ -29,7 +29,7 @@ A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
 - [Unveiling the Potential of AI: From Sci-Fi Dreams to Everyday Reality](https://medium.com/@shaswat.srivastava.404/unveiling-the-potential-of-ai-from-sci-fi-dreams-to-everyday-reality-964d2b593a15)
-- [The Transformative Power of Explainable AI in Decision-Making Processes]([https://medium.com/@shaswat.srivastava.404/the-transformative-power-of-explainable-ai-in-decision-making-processes-eb80a14027cb])
+- [The Transformative Power of Explainable AI in Decision-Making Processes](https://medium.com/@shaswat.srivastava.404/the-transformative-power-of-explainable-ai-in-decision-making-processes-eb80a14027cb)
 - [A Collection of Docker Images To Solve All Your Debugging Needs](https://martinheinz.dev/blog/104)
 - [Weird Python &quot;Features&quot; That Might Catch You By Surprise](https://martinheinz.dev/blog/103)
 <!-- BLOG-POST-LIST:END -->
