@@ -23,13 +23,13 @@ I am a graduate student at The University of Southern California majoring in Com
 
 ## &#x270d; Research Papers
 
-Apart from coding, I also write research articles - you can find my articles on [here](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+Apart from coding, I also write research articles - you can find my articles on [here]() as well as on [Medium]([https://medium.com/@martin.heinz](https://medium.com/@shaswat.srivastava.404)) and [DEV.to]().
 
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
-- [Everything You Can Do with Python&#39;s bisect Module](https://martinheinz.dev/blog/106)
-- [You Don&#39;t Need a Dedicated Cache Service - PostgreSQL as a Cache](https://martinheinz.dev/blog/105)
+- [Unveiling the Potential of AI: From Sci-Fi Dreams to Everyday Reality]([https://martinheinz.dev/blog/106](https://medium.com/@shaswat.srivastava.404/unveiling-the-potential-of-ai-from-sci-fi-dreams-to-everyday-reality-964d2b593a15))
+- [The Transformative Power of Explainable AI in Decision-Making Processes]([https://martinheinz.dev/blog/105](https://medium.com/@shaswat.srivastava.404/the-transformative-power-of-explainable-ai-in-decision-making-processes-eb80a14027cb))
 - [A Collection of Docker Images To Solve All Your Debugging Needs](https://martinheinz.dev/blog/104)
 - [Weird Python &quot;Features&quot; That Might Catch You By Surprise](https://martinheinz.dev/blog/103)
 <!-- BLOG-POST-LIST:END -->
