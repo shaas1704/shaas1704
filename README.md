@@ -23,7 +23,7 @@ I am a graduate student at The University of Southern California majoring in Com
 
 ## &#x270d; Research Papers
 
-Apart from coding, I also write research articles - you can find my articles on [here]() as well as on [Medium]([https://medium.com/@martin.heinz](https://medium.com/@shaswat.srivastava.404)) and [DEV.to]().
+Apart from coding, I also write research articles - you can find my articles on [here]() as well as on [Medium]((https://medium.com/@shaswat.srivastava.404)) and [DEV.to]().
 
 A sample of my recent articles:
 
