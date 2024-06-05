@@ -31,7 +31,7 @@ A sample of my recent articles:
 - [Unveiling the Potential of AI: From Sci-Fi Dreams to Everyday Reality](https://medium.com/@shaswat.srivastava.404/unveiling-the-potential-of-ai-from-sci-fi-dreams-to-everyday-reality-964d2b593a15)
 - [The Transformative Power of Explainable AI in Decision-Making Processes](https://medium.com/@shaswat.srivastava.404/the-transformative-power-of-explainable-ai-in-decision-making-processes-eb80a14027cb)
 - [How to Harness the Power of ChatGPT-4: A Comprehensive Guide](https://medium.com/@shaswat.srivastava.404/how-to-harness-the-power-of-chatgpt-4-a-comprehensive-guide-9d713944fa9c)
-- [Weird Python &quot;Features&quot; That Might Catch You By Surprise](https://martinheinz.dev/blog/103)
+- [Weird Python &quot;Features&quot; That Might Catch You By Surprise](https://medium.com/@shaswat.srivastava.404/weird-python-features-that-might-catch-you-by-surprise-245407e658ea)
 <!-- BLOG-POST-LIST:END -->
   
 <!-- links to social media icons -->
