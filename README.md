@@ -4,7 +4,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-I am a graduate student at The University of Southern California majoring in Computer Science with a specialization in Artificial Intelligence. Here are a few of my projects, feel free to explore them. You can find me on [linkedin](https://www.linkedin.com/in/shaswatsrivastava/).
+I am a graduate student at The University of Southern California majoring in Computer Science. Here are a few of my projects, feel free to explore them. You can find me on [linkedin](https://www.linkedin.com/in/shaswatsrivastava/).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
