@@ -2,7 +2,7 @@
 
 [![Header](https://github.com/shaas1704/shaas1704/blob/main/New/Screenshot%202023-12-20%20193708.png)](https://github.com/shaas1704)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# Hello, Nerds! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 I am a graduate student at The University of Southern California majoring in Computer Science. Here are a few of my projects, feel free to explore them. You can find me on [linkedin](https://www.linkedin.com/in/shaswatsrivastava/).
 
