@@ -21,7 +21,7 @@ I am a graduate student at The University of Southern California majoring in Com
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
-## &#x270d; Research Papers
+## &#x270d; Research and Articles
 
 Apart from coding, I also write research articles - you can find my articles on [Medium](https://medium.com/@shaswat.srivastava.404).
 
