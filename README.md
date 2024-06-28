@@ -10,23 +10,27 @@
 I'm Shaswat Srivastava, a graduate student at The University of Southern California majoring in Computer Science. I'm passionate about developing intelligent systems to solve real-world problems. Here are a few of my projects, feel free to explore them! You can also find me on [linkedin](https://www.linkedin.com/in/shaswatsrivastava/).
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+![](https://github.com/shaas1704/shaas1704/blob/main/New/badges/python-informational.svg)
+![](https://github.com/shaas1704/shaas1704/blob/main/New/badges/R%20programming-informational.svg)
+![](https://github.com/shaas1704/shaas1704/blob/main/New/badges/SQL-informational.svg)
+![](https://github.com/shaas1704/shaas1704/blob/main/New/badges/C%2B%2B-informational.svg)
+![](https://github.com/shaas1704/shaas1704/blob/main/New/badges/javascript-informational.svg)
+![](https://github.com/shaas1704/shaas1704/blob/main/New/badges/tensorflow-informational.svg)
+![](https://github.com/shaas1704/shaas1704/blob/main/New/badges/pytorch-informational.svg)
+![](https://github.com/shaas1704/shaas1704/blob/main/New/badges/keras-informational.svg)
+![](https://github.com/shaas1704/shaas1704/blob/main/New/badges/google%20colab-informational.svg)
+![](https://github.com/shaas1704/shaas1704/blob/main/New/badges/power%20BI-informational.svg)
+![](https://github.com/shaas1704/shaas1704/blob/main/New/badges/tableau-informational.svg)
+![](https://github.com/shaas1704/shaas1704/blob/main/New/badges/opencv-informational.svg)
+![](https://github.com/shaas1704/shaas1704/blob/main/New/badges/AWS-informational.svg)
+![](https://github.com/shaas1704/shaas1704/blob/main/New/badges/GCP-informational.svg)
+![](https://github.com/shaas1704/shaas1704/blob/main/New/badges/android-informational.svg)
+![](https://github.com/shaas1704/shaas1704/blob/main/New/badges/HTML5-informational.svg)
+![](https://github.com/shaas1704/shaas1704/blob/main/New/badges/CSS3-informational.svg)
 
-## &#x270d; Research and Articles
+## &#x270d; Articles
 
-Apart from coding, I also write research articles - you can find my articles on [Medium](https://medium.com/@shaswat.srivastava.404).
+Apart from coding, I also write articles - you can find my articles on [Medium](https://medium.com/@shaswat.srivastava.404).
 
 A sample of my recent articles:
 
@@ -64,4 +68,3 @@ A sample of my recent articles:
 <!-- Emojis: https://emojipedia.org/emoji/ -->
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
