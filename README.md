@@ -33,6 +33,8 @@ Apart from coding, I also write articles - you can find my articles on [Medium](
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
+
+- []()
 <!-- BLOG-POST-LIST:END -->
   
 <!-- links to social media icons -->
