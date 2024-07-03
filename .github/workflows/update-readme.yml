@@ -18,24 +18,32 @@ jobs:
         # Fetch the latest articles from Medium RSS feed
         LATEST_ARTICLES=$(curl -s https://medium.com/feed/@shaswat.srivastava.404 | grep -oP '(?<=<link>)[^<]+' | grep -v 'https://medium.com/@shaswat.srivastava.404' | head -n 5)
         echo "$LATEST_ARTICLES" > latest_articles.txt
+        echo "Fetched latest articles: $LATEST_ARTICLES"
 
-    - name: Update README
+    - name: Format and Update README
       run: |
         # Read the latest articles
         LATEST_ARTICLES=$(cat latest_articles.txt)
+        echo "Latest articles content: $LATEST_ARTICLES"
 
-        # Format the articles for Markdown
+        # Initialize formatted articles variable
         FORMATTED_ARTICLES=""
+        
+        # Fetch and format each article title and link
         while IFS= read -r line; do
-          TITLE=$(curl -s $line | grep -oP '(?<=<title>)[^<]+')
+          TITLE=$(curl -s "$line" | grep -oP '(?<=<title>)[^<]+' | sed 's/|.*//')
           FORMATTED_ARTICLES="$FORMATTED_ARTICLES\n- [$TITLE]($line)"
         done <<< "$LATEST_ARTICLES"
+        
+        echo "Formatted articles: $FORMATTED_ARTICLES"
 
         # Update the README.md file
         README_CONTENT=$(cat README.md)
-        UPDATED_README=$(echo "$README_CONTENT" | sed -e '/<!-- BLOG-POST-LIST:START -->/,/<!-- BLOG-POST-LIST:END -->/c\<!-- BLOG-POST-LIST:START -->\n$FORMATTED_ARTICLES\n<!-- BLOG-POST-LIST:END -->')
+        UPDATED_README=$(echo "$README_CONTENT" | sed -e '/<!-- BLOG-POST-LIST:START -->/,/<!-- BLOG-POST-LIST:END -->/c\<!-- BLOG-POST-LIST:START -->\n'"$FORMATTED_ARTICLES"'\n<!-- BLOG-POST-LIST:END -->')
         echo "$UPDATED_README" > README.md
         
+        echo "Updated README content: $UPDATED_README"
+
     - name: Commit changes
       run: |
         git config --global user.name 'github-actions'
