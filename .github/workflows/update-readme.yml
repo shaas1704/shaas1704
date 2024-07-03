@@ -1,0 +1,35 @@
+name: Update README with Latest Medium Article
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs every day at midnight
+  workflow_dispatch:  # Allows manual triggering of the workflow
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+      
+    - name: Fetch Medium RSS Feed
+      id: medium
+      run: |
+        LATEST_MEDIUM_ARTICLE=$(curl -s https://medium.com/feed/@shaswat.srivastava.404 | grep -oP '(?<=<link>)[^<]+' | sed -n '3p')
+        echo "::set-output name=latest_article::$LATEST_MEDIUM_ARTICLE"
+        
+    - name: Update README
+      run: |
+        LATEST_ARTICLE_URL=${{ steps.medium.outputs.latest_article }}
+        README_CONTENT=$(cat README.md)
+        UPDATED_README="## Articles\n- [My Latest Medium Article]($LATEST_ARTICLE_URL)\n"
+        UPDATED_README+=$(echo "$README_CONTENT" | sed '/## Articles/,$d')
+        echo "$UPDATED_README" > README.md
+        
+    - name: Commit changes
+      run: |
+        git config --global user.name 'github-actions'
+        git config --global user.email 'github-actions@github.com'
+        git add README.md
+        git commit -m 'Update README with latest Medium article'
+        git push
