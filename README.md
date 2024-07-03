@@ -30,7 +30,7 @@ I'm Shaswat Srivastava, a graduate student at The University of Southern Califor
 
 Apart from coding, I also write articles - you can find my articles on [Medium](https://medium.com/@shaswat.srivastava.404).
 
-A sample of my recent articles:
+A sample of my recent articles (updated daily):
 
 <!-- BLOG-POST-LIST:START -->
 
