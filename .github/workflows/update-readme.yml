@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3  # Uses Node.js 20 by default
+      uses: actions/checkout@v3  # Updated to v3 to use Node.js 16
       
     - name: Fetch Medium RSS Feed
       id: medium
@@ -24,7 +24,7 @@ jobs:
       run: |
         # Read the latest articles
         LATEST_ARTICLES=$(cat latest_articles.txt)
-        echo "Latest articles content:\n$LATEST_ARTICLES"
+        echo "Latest articles content: $LATEST_ARTICLES"
 
         # Initialize formatted articles variable
         FORMATTED_ARTICLES=""
@@ -32,18 +32,17 @@ jobs:
         # Fetch and format each article title and link
         while IFS= read -r line; do
           TITLE=$(curl -s "$line" | grep -oP '(?<=<title>)[^<]+' | sed 's/|.*//')
-          echo "Fetched title: $TITLE"
           FORMATTED_ARTICLES="$FORMATTED_ARTICLES\n- [$TITLE]($line)"
         done <<< "$LATEST_ARTICLES"
         
-        echo "Formatted articles:\n$FORMATTED_ARTICLES"
+        echo "Formatted articles: $FORMATTED_ARTICLES"
 
         # Update the README.md file
         README_CONTENT=$(cat README.md)
         UPDATED_README=$(echo "$README_CONTENT" | sed -e '/<!-- BLOG-POST-LIST:START -->/,/<!-- BLOG-POST-LIST:END -->/c\<!-- BLOG-POST-LIST:START -->\n'"$FORMATTED_ARTICLES"'\n<!-- BLOG-POST-LIST:END -->')
         echo "$UPDATED_README" > README.md
         
-        echo "Updated README content:\n$UPDATED_README"
+        echo "Updated README content: $UPDATED_README"
 
     - name: Commit changes
       run: |
@@ -51,8 +50,4 @@ jobs:
         git config --global user.email 'github-actions@github.com'
         git add README.md
         git commit -m 'Update README with latest Medium articles'
-        git push origin HEAD:main  # Ensure the push to the main branch
-
-    - name: Clean up
-      run: |
-        rm latest_articles.txt
+        git push
