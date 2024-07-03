@@ -51,7 +51,7 @@ jobs:
         git config --global user.email 'github-actions@github.com'
         git add README.md
         git commit -m 'Update README with latest Medium articles'
-        git push
+        git push origin HEAD:main  # Ensure the push to the main branch
 
     - name: Clean up
       run: |
