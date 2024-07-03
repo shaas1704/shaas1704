@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3  # Updated to v3 to use Node.js 16
+      uses: actions/checkout@v3  # Uses Node.js 20 by default
       
     - name: Fetch Medium RSS Feed
       id: medium
@@ -52,3 +52,7 @@ jobs:
         git add README.md
         git commit -m 'Update README with latest Medium articles'
         git push
+
+    - name: Clean up
+      run: |
+        rm latest_articles.txt
