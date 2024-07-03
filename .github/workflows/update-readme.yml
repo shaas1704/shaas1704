@@ -17,26 +17,16 @@ jobs:
       uses: actions/setup-node@v3
       with:
         node-version: '20'
+
+    - name: Install xmlstarlet
+      run: sudo apt-get install -y xmlstarlet
       
-    - name: Fetch Medium RSS Feed
-      id: medium
+    - name: Fetch Medium RSS Feed and Extract Titles and Links
       run: |
         # Fetch the latest articles from Medium RSS feed
-        LATEST_ARTICLES=$(curl -s https://medium.com/feed/@shaswat.srivastava.404 | grep -oP '(?<=<link>)[^<]+' | grep 'https://medium.com/@shaswat.srivastava.404' | head -n 5)
-        echo "$LATEST_ARTICLES" > latest_articles.txt
-        echo "Fetched latest articles: $LATEST_ARTICLES"
-
-    - name: Print latest_articles.txt
-      run: |
+        curl -s https://medium.com/feed/@shaswat.srivastava.404 | xmlstarlet sel -t -m '//item' -v 'concat(title, "|", link)' -n | head -n 5 > latest_articles.txt
         echo "Contents of latest_articles.txt:"
         cat latest_articles.txt
-
-    - name: Fetch and Print Titles for Debugging
-      run: |
-        while IFS= read -r line; do
-          TITLE=$(curl -s "$line" | grep -oP '(?<=<title>)[^<]+' | head -n 1 | sed 's/<!\[CDATA\[//g' | sed 's/\]\]>//g')
-          echo "Fetched title: $TITLE"
-        done < latest_articles.txt
 
     - name: Format and Update README
       run: |
@@ -49,12 +39,9 @@ jobs:
         
         # Fetch and format each article title and link
         while IFS= read -r line; do
-          TITLE=$(curl -s "$line" | grep -oP '(?<=<title>)[^<]+' | head -n 1 | sed 's/<!\[CDATA\[//g' | sed 's/\]\]>//g')
-          if [ -n "$TITLE" ]; then
-            FORMATTED_ARTICLES="$FORMATTED_ARTICLES\n- [$TITLE]($line)"
-          else
-            FORMATTED_ARTICLES="$FORMATTED_ARTICLES\n- [Title Not Found]($line)"
-          fi
+          TITLE=$(echo "$line" | cut -d '|' -f 1 | sed 's/<!\[CDATA\[//g' | sed 's/\]\]>//g')
+          LINK=$(echo "$line" | cut -d '|' -f 2)
+          FORMATTED_ARTICLES="$FORMATTED_ARTICLES\n- [$TITLE]($LINK)"
         done <<< "$LATEST_ARTICLES"
         
         echo "Formatted articles: $FORMATTED_ARTICLES"
