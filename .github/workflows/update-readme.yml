@@ -31,6 +31,13 @@ jobs:
         echo "Contents of latest_articles.txt:"
         cat latest_articles.txt
 
+    - name: Fetch and Print Titles for Debugging
+      run: |
+        while IFS= read -r line; do
+          TITLE=$(curl -s "$line" | grep -oP '(?<=<title>)[^<]+' | head -n 1 | sed 's/<!\[CDATA\[//g' | sed 's/\]\]>//g')
+          echo "Fetched title: $TITLE"
+        done < latest_articles.txt
+
     - name: Format and Update README
       run: |
         # Read the latest articles
@@ -43,7 +50,11 @@ jobs:
         # Fetch and format each article title and link
         while IFS= read -r line; do
           TITLE=$(curl -s "$line" | grep -oP '(?<=<title>)[^<]+' | head -n 1 | sed 's/<!\[CDATA\[//g' | sed 's/\]\]>//g')
-          FORMATTED_ARTICLES="$FORMATTED_ARTICLES\n- [$TITLE]($line)"
+          if [ -n "$TITLE" ]; then
+            FORMATTED_ARTICLES="$FORMATTED_ARTICLES\n- [$TITLE]($line)"
+          else
+            FORMATTED_ARTICLES="$FORMATTED_ARTICLES\n- [Title Not Found]($line)"
+          fi
         done <<< "$LATEST_ARTICLES"
         
         echo "Formatted articles: $FORMATTED_ARTICLES"
