@@ -8,9 +8,15 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3  # Updated to v3 to use Node.js 16
+      uses: actions/checkout@v3  # Uses Node.js 20 by default
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '20'
       
     - name: Fetch Medium RSS Feed
       id: medium
@@ -50,4 +56,4 @@ jobs:
         git config --global user.email 'github-actions@github.com'
         git add README.md
         git commit -m 'Update README with latest Medium articles'
-        git push
+        git push origin HEAD:main
