@@ -34,11 +34,11 @@ A sample of my recent articles (updated daily):
 
 <!-- BLOG-POST-LIST:START -->
 
+- [The Best AI Courses to Take in 2024: A Comprehensive Guide](https://medium.com/@shaswat.srivastava.404/the-best-ai-courses-to-take-in-2024-a-comprehensive-guide-3142b678b599?source=rss-6510cb770b22------2)
 - [Understanding the Inner Workings of Large Language Models (LLMs) in ChatGPT](https://medium.com/@shaswat.srivastava.404/understanding-the-inner-workings-of-large-language-models-llms-in-chatgpt-8a85548ca431?source=rss-6510cb770b22------2)
 - [Understanding Large Language Models: Technical Insights into Their Workings](https://medium.com/@shaswat.srivastava.404/understanding-large-language-models-technical-insights-into-their-workings-44669ef430a6?source=rss-6510cb770b22------2)
 - [Mastering LinkedIn Premium: A Guide to Effective Use](https://medium.com/@shaswat.srivastava.404/mastering-linkedin-premium-a-guide-to-effective-use-ece517c774db?source=rss-6510cb770b22------2)
 - [Unveiling the Future: The Role of AI in Healthcare](https://medium.com/@shaswat.srivastava.404/unveiling-the-future-the-role-of-ai-in-healthcare-5cf5078bfe64?source=rss-6510cb770b22------2)
-- [The Wacky World of Facial Recognition Software: When AI Sees You ](https://medium.com/@shaswat.srivastava.404/the-wacky-world-of-facial-recognition-software-when-ai-sees-you-4722383b3c66?source=rss-6510cb770b22------2)
 <!-- BLOG-POST-LIST:END -->
   
 <!-- links to social media icons -->
