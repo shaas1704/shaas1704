@@ -34,9 +34,9 @@ A sample of my recent articles (updated daily):
 
 <!-- BLOG-POST-LIST:START -->
 
+- [Developing a Game in the Tech Field: Essential Skills for Aspiring Game Developers](https://medium.com/@shaswat.srivastava.404/developing-a-game-in-the-tech-field-essential-skills-for-aspiring-game-developers-f7f1a8ca6566?source=rss-6510cb770b22------2)
 - [Unraveling the Mystery of Transformers in Machine Learning](https://medium.com/@shaswat.srivastava.404/unraveling-the-mystery-of-transformers-in-machine-learning-77cbe65dcaa9?source=rss-6510cb770b22------2)
 - [Common Mistakes to Avoid When Entering the Field of AI/ML](https://medium.com/@shaswat.srivastava.404/common-mistakes-to-avoid-when-entering-the-field-of-ai-ml-abe346dba85f?source=rss-6510cb770b22------2)
 - [Exploring Cutting-Edge Machine Learning Techniques: A Technical Deep Dive](https://medium.com/@shaswat.srivastava.404/exploring-cutting-edge-machine-learning-techniques-a-technical-deep-dive-fb97e9d723b5?source=rss-6510cb770b22------2)
 - [Crafting a Versatile Tech Resume: Exploring Key Domains](https://medium.com/@shaswat.srivastava.404/crafting-a-versatile-tech-resume-exploring-key-domains-d89a510e7a3e?source=rss-6510cb770b22------2)
-- [The Rise of Quantum Computing: Transforming the Future of Technology](https://medium.com/@shaswat.srivastava.404/the-rise-of-quantum-computing-transforming-the-future-of-technology-9b9a686d8705?source=rss-6510cb770b22------2)
 <!-- BLOG-POST-LIST:END -->
