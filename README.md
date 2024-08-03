@@ -34,9 +34,9 @@ A sample of my recent articles (updated daily):
 
 <!-- BLOG-POST-LIST:START -->
 
+- [With the proliferation of AI technology, distinguishing between human-written and AI-generated…](https://medium.com/@shaswat.srivastava.404/with-the-proliferation-of-ai-technology-distinguishing-between-human-written-and-ai-generated-7243e667cf02?source=rss-6510cb770b22------2)
 - [Maximizing Your Tech Career: Leveraging Social Media for Success](https://medium.com/@shaswat.srivastava.404/maximizing-your-tech-career-leveraging-social-media-for-success-4550945343ef?source=rss-6510cb770b22------2)
 - [Unlocking the Future: Top Domains for New Grads in the Tech Industry](https://medium.com/@shaswat.srivastava.404/unlocking-the-future-top-domains-for-new-grads-in-the-tech-industry-7036d80fdf4f?source=rss-6510cb770b22------2)
 - [Developing a Game in the Tech Field: Essential Skills for Aspiring Game Developers](https://medium.com/@shaswat.srivastava.404/developing-a-game-in-the-tech-field-essential-skills-for-aspiring-game-developers-f7f1a8ca6566?source=rss-6510cb770b22------2)
 - [Unraveling the Mystery of Transformers in Machine Learning](https://medium.com/@shaswat.srivastava.404/unraveling-the-mystery-of-transformers-in-machine-learning-77cbe65dcaa9?source=rss-6510cb770b22------2)
-- [Common Mistakes to Avoid When Entering the Field of AI/ML](https://medium.com/@shaswat.srivastava.404/common-mistakes-to-avoid-when-entering-the-field-of-ai-ml-abe346dba85f?source=rss-6510cb770b22------2)
 <!-- BLOG-POST-LIST:END -->
