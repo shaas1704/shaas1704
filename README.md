@@ -34,9 +34,9 @@ A sample of my recent articles (updated daily):
 
 <!-- BLOG-POST-LIST:START -->
 
+- [What NOT to Do as a Software Graduate Entering the Tech Industry](https://medium.com/@shaswat.srivastava.404/what-not-to-do-as-a-software-graduate-entering-the-tech-industry-4eb0037f8635?source=rss-6510cb770b22------2)
 - [How to Make the Most of Your Summer as a Tech Student: Gaining Experience Without an Internship](https://medium.com/@shaswat.srivastava.404/how-to-make-the-most-of-your-summer-as-a-tech-student-gaining-experience-without-an-internship-0540de5c96c3?source=rss-6510cb770b22------2)
 - [Which Coding Languages to Learn as a New Graduate in Software Engineering](https://medium.com/@shaswat.srivastava.404/which-coding-languages-to-learn-as-a-new-graduate-in-software-engineering-4d1ff2087da1?source=rss-6510cb770b22------2)
 - [With the proliferation of AI technology, distinguishing between human-written and AI-generated…](https://medium.com/@shaswat.srivastava.404/with-the-proliferation-of-ai-technology-distinguishing-between-human-written-and-ai-generated-7243e667cf02?source=rss-6510cb770b22------2)
 - [Maximizing Your Tech Career: Leveraging Social Media for Success](https://medium.com/@shaswat.srivastava.404/maximizing-your-tech-career-leveraging-social-media-for-success-4550945343ef?source=rss-6510cb770b22------2)
-- [Unlocking the Future: Top Domains for New Grads in the Tech Industry](https://medium.com/@shaswat.srivastava.404/unlocking-the-future-top-domains-for-new-grads-in-the-tech-industry-7036d80fdf4f?source=rss-6510cb770b22------2)
 <!-- BLOG-POST-LIST:END -->
