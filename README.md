@@ -34,9 +34,9 @@ A sample of my recent articles (updated daily):
 
 <!-- BLOG-POST-LIST:START -->
 
+- [Will AI Actually Take Over the World? Spoiler Alert: It Won’t.](https://medium.com/@shaswat.srivastava.404/will-ai-actually-take-over-the-world-spoiler-alert-it-wont-e284f78e67bc?source=rss-6510cb770b22------2)
 - [Mastering LeetCode: A Strategic Guide for Graduate Students to Secure Tech Positions in the U.S.](https://medium.com/@shaswat.srivastava.404/mastering-leetcode-a-strategic-guide-for-graduate-students-to-secure-tech-positions-in-the-u-s-2f983c8b6777?source=rss-6510cb770b22------2)
 - [How to Negotiate for a Tech Job as a New Grad with Little to No Experience (2024)](https://medium.com/@shaswat.srivastava.404/how-to-negotiate-for-a-tech-job-as-a-new-grad-with-little-to-no-experience-2024-dfeb4cc0615f?source=rss-6510cb770b22------2)
 - [What NOT to Do as a Software Graduate Entering the Tech Industry](https://medium.com/@shaswat.srivastava.404/what-not-to-do-as-a-software-graduate-entering-the-tech-industry-4eb0037f8635?source=rss-6510cb770b22------2)
 - [How to Make the Most of Your Summer as a Tech Student: Gaining Experience Without an Internship](https://medium.com/@shaswat.srivastava.404/how-to-make-the-most-of-your-summer-as-a-tech-student-gaining-experience-without-an-internship-0540de5c96c3?source=rss-6510cb770b22------2)
-- [Which Coding Languages to Learn as a New Graduate in Software Engineering](https://medium.com/@shaswat.srivastava.404/which-coding-languages-to-learn-as-a-new-graduate-in-software-engineering-4d1ff2087da1?source=rss-6510cb770b22------2)
 <!-- BLOG-POST-LIST:END -->
