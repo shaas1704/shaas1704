@@ -34,5 +34,9 @@ A sample of my recent articles (updated daily):
 
 <!-- BLOG-POST-LIST:START -->
 
-- []()
+- [As a grad student, balancing job applications, coursework, and a social life can feel overwhelming.](https://medium.com/@shaswat.srivastava.404/as-a-grad-student-balancing-job-applications-coursework-and-a-social-life-can-feel-overwhelming-227beb14ec9d?source=rss-6510cb770b22------2)
+- [Finding Your Passion: How to Pursue Software Projects That Truly Interest You as a Graduate Student](https://medium.com/@shaswat.srivastava.404/finding-your-passion-how-to-pursue-software-projects-that-truly-interest-you-as-a-graduate-student-41b6d9dcd541?source=rss-6510cb770b22------2)
+- [Do Grad School Grades Really Matter for Landing a Tech Job?](https://medium.com/@shaswat.srivastava.404/do-grad-school-grades-really-matter-for-landing-a-tech-job-07dfc06c0b40?source=rss-6510cb770b22------2)
+- [How to Use AI in Projects: Developing an App to Predict FPL Players for the 2024/25 Premier League…](https://medium.com/@shaswat.srivastava.404/how-to-use-ai-in-projects-developing-an-app-to-predict-fpl-players-for-the-2024-25-premier-league-8f924a823003?source=rss-6510cb770b22------2)
+- [Will AI Actually Take Over the World? Spoiler Alert: It Won’t.](https://medium.com/@shaswat.srivastava.404/will-ai-actually-take-over-the-world-spoiler-alert-it-wont-e284f78e67bc?source=rss-6510cb770b22------2)
 <!-- BLOG-POST-LIST:END -->
