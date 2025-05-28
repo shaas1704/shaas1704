@@ -5,7 +5,7 @@
 
 # Hey-a! <img src="https://github.com/shaas1704/shaas1704/blob/main/New/wave.gif" width="30px" height="30px" />
 
-I'm Shaswat Srivastava, a graduate student at The University of Southern California majoring in Computer Science. I'm passionate about developing intelligent systems to solve real-world problems. Here are a few of my projects, feel free to explore them! You can also find me on [linkedin](https://www.linkedin.com/in/shaswatsrivastava/) or get to know more about me [here](https://shaas1704.github.io/).
+I'm Shaswat Srivastava, a Master’s graduate in Computer Science from the University of Southern California. I build intelligent systems using AI, machine learning, and data technologies to solve complex real-world problems. Feel free to explore my work or connect with me on [Linkedin](https://www.linkedin.com/in/shaswatsrivastava/) or get to know more about me [here](https://shaas1704.github.io/).
 
 ## 🔧 Technologies & Tools
 ![](https://github.com/shaas1704/shaas1704/blob/main/New/badges/python-informational.svg)
